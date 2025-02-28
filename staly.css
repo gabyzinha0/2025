@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ce31ac;
     font-weight: 600;
 }
 
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--Rosa);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -67,7 +67,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--Rosa);
 }
 
 
